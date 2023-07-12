@@ -14,7 +14,7 @@ setup(
     description="scivision plugin for image-classifiers",
     author="Ed Chalstrey",
     author_email="echalstrey@turing.ac.uk",
-    url="https://github.com/alan-turing-institute/scivision_classifier",
+    url="https://github.com/IFenton/scivision_classifier",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.7",
