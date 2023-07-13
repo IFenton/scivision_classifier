@@ -4,5 +4,5 @@ xarray
 dask
 tensorflow==2.10.0
 keras_applications>=1.0.7
-keras=2.10.0
+keras==2.10.0
 image-classifiers<=1.0.0
